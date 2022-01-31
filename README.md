@@ -9,8 +9,8 @@ Eu sou Luís Carlos, Formado em Engenharia de Computação. Entusiasta em Data S
 
 [![Github Badge](https://img.shields.io/badge/-luiscals1-inactive?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luiscals1/)](https://github.com/luiscals1/)
 [![LinkedIn Badge](https://img.shields.io/badge/-Luís_Carlos_Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiscarlos-almeida/)](https://www.linkedin.com/in/luiscarlos-almeida/)
-<!--[![Gmail Badge](https://img.shields.io/badge/-luiscals.ds@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiscals.ds@gmail.com)](mailto:luiscals.ds@gmail.com)
--->
+[![Gmail Badge](https://img.shields.io/badge/-luiscals.ds@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiscals.ds@gmail.com)](mailto:luiscals.ds@gmail.com)
+
 <div align="center">
   <a href="https://github.com/luiscals1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiscals1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
