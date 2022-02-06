@@ -2,7 +2,12 @@
 
 <!--
 **luiscals1/luiscals1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div align="center" >
+  <img src="https://sauter.digital/wp-content/uploads/2021/05/GIF-Dados.gif" >
+</div>
 -->
+
 ![](https://komarev.com/ghpvc/?username=luiscals1)
 
 Eu sou Luís Carlos, Formado em Engenharia de Computação. Entusiasta em Data Science. Gosto como a tecnologia nos ajuda a resolver problemas e facilitar a vida das pessoas e empresas através de soluções criativas. Possuo conhecimento da linguagem Python e suas principais bibliotecas para trabalho com dados.
@@ -20,3 +25,6 @@ Eu sou Luís Carlos, Formado em Engenharia de Computação. Entusiasta em Data S
 ![Snake animation](https://github.com/luiscals1/luiscals1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+
