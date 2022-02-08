@@ -13,8 +13,8 @@
 Eu sou Luís Carlos, Formado em Engenharia de Computação. Entusiasta em Data Science. Gosto como a tecnologia nos ajuda a resolver problemas e facilitar a vida das pessoas e empresas através de soluções criativas. Possuo conhecimento da linguagem Python e suas principais bibliotecas para trabalho com dados.
 
 [![Github Badge](https://img.shields.io/badge/-luiscals1-inactive?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luiscals1/)](https://github.com/luiscals1/)
-[![LinkedIn Badge](https://img.shields.io/badge/-Luís_Carlos_Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiscarlos-almeida/)](https://www.linkedin.com/in/luiscarlos-almeida/)
 [![Medium Bagde](https://img.shields.io/badge/Medium-12100E?style=lat-square&logo=medium&logoColor=white&https://medium.com/@luiscals1/)](https://medium.com/@luiscals1)
+[![LinkedIn Badge](https://img.shields.io/badge/-Luís_Carlos_Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiscarlos-almeida/)](https://www.linkedin.com/in/luiscarlos-almeida/)
 [![Gmail Badge](https://img.shields.io/badge/-luiscals.ds@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiscals.ds@gmail.com)](mailto:luiscals.ds@gmail.com)
 
 <div align="center">
