@@ -14,6 +14,7 @@ Eu sou Luís Carlos, Formado em Engenharia de Computação. Entusiasta em Data S
 
 [![Github Badge](https://img.shields.io/badge/-luiscals1-inactive?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luiscals1/)](https://github.com/luiscals1/)
 [![LinkedIn Badge](https://img.shields.io/badge/-Luís_Carlos_Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiscarlos-almeida/)](https://www.linkedin.com/in/luiscarlos-almeida/)
+[![Medium Bagde](https://img.shields.io/badge/-luiscals1-inactive?style=flat-square&logo=medium&logoColor=black&https://medium.com/@luiscals1/)](https://medium.com/@luiscals1)
 [![Gmail Badge](https://img.shields.io/badge/-luiscals.ds@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiscals.ds@gmail.com)](mailto:luiscals.ds@gmail.com)
 
 <div align="center">
