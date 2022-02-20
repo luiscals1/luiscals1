@@ -21,10 +21,10 @@ Eu sou Luís Carlos, Formado em Engenharia de Computação. Entusiasta em Data S
  <a href="https://www.linkedin.com/in/luiscarlos-almeida/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="luiscals.ds@gmail.com" target="blank">
+ <a href="mailto:luiscals.ds@gmail.com" target="blank">
   <img align="center" alt="Pramod's Instagram" width="200px" src="https://img.shields.io/badge/-luiscals.ds@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiscals.ds@gmail.com" /> &nbsp; &nbsp;
  </a>
- <a href="https://medium.com/@jorgebarrosmedeiros" target="blank">
+ <a href="https://medium.com/@luiscalmeida" target="blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
   <br/>
