@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=luiscals1)
 
-Eu sou Luís Carlos, Formado em Engenharia de Computação. Estudante de Data Science. Gosto como a tecnologia nos ajuda a resolver problemas e facilitar a vida das pessoas e empresas através de soluções criativas. <!--Possuo conhecimento da linguagem Python e suas principais bibliotecas para trabalho com dados.-->
+Eu sou Luís Carlos, Formado em Engenharia de Computação💻. Estudante de Data Science. Gosto como a tecnologia nos ajuda a resolver problemas e facilitar a vida das pessoas e empresas através de soluções criativas. <!--Possuo conhecimento da linguagem Python e suas principais bibliotecas para trabalho com dados.-->
 
 <div align="center">
   <h3 align="center">Conecte-se comigo<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
