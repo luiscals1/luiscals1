@@ -1,12 +1,5 @@
 ### Olá, pessoal! 👋 
 
-<!--
-**luiscals1/luiscals1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<div align="center" >
-  <img src="https://sauter.digital/wp-content/uploads/2021/05/GIF-Dados.gif" >
-</div>
--->
 
 ![](https://komarev.com/ghpvc/?username=luiscals1)
 ```
@@ -14,7 +7,7 @@
 Eu sou Luís Carlos, Graduado em Engenharia de Computação💻. Analista/Cientista de Dados Jr 📊. 
 
 ```
- <!--Gosto como tecnologia nos ajuda a resolver problemas e facilitar a vida das pessoas e empresas através de soluções criativas.Possuo conhecimento da linguagem Python e suas principais bibliotecas para trabalho com dados.-->
+
 <div align="center">
   <h3 align="center">Conecte-se comigo<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
