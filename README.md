@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=luiscals1)
 ```
 
-Eu sou Luís Carlos, Formado em Engenharia de Computação💻. Analista/Cientista de Dados Jr 📊. 
+Eu sou Luís Carlos, Graduado em Engenharia de Computação💻. Analista/Cientista de Dados Jr 📊. 
 
 ```
  <!--Gosto como tecnologia nos ajuda a resolver problemas e facilitar a vida das pessoas e empresas através de soluções criativas.Possuo conhecimento da linguagem Python e suas principais bibliotecas para trabalho com dados.-->
