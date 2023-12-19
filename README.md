@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=luiscals1)
 ```
 
-Me chamo Luís Carlos, Graduado em Engenharia de Computação 🎓💻. Analista/Cientista de Dados 📊. 
+Me chamo Luís Carlos, Engenheiro de Computação 🎓💻. Analista/Cientista de Dados 📊. 
 
 ```
 
